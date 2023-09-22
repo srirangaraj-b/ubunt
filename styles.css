@@ -1,11 +1,28 @@
 
 .nav{
     background-color: black;
-    
+    top:0px;
+    left:0px;    
 
 }
 .nav ul li a{
     text-decoration: none;
-    color:white;
-
+    color:rgb(218, 194, 194);
+}
+li{
+    display:inline-block;
+    justify-content: left;   
+}
+.nav ul{
+    border: 5px soldi black;
+    padding:20px;
+}
+.nav ul li{
+    padding-right:30px;
+}
+body{
+    background:linear-gradient(rgb(224, 135, 135),rgb(212, 212, 76));
+    background-repeat: no-repeat;
+    width:100%;
+    height:1000px;
 }
