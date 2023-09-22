@@ -1,1 +1,3 @@
-Helllo how you doing this is just a text file to check weather its connected to my git hub account
+Helllo how you doing this is just a text file to 
+check weather its connected to my github
+account
